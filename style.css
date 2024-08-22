@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+nav a{
+color: white;
+text-decoration: none;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 840px;
+    height: 420px;
+}
